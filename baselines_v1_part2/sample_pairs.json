@@ -1,0 +1,77 @@
+[
+  {
+    "method_1": "ours",
+    "method_2": "diffhandles",
+    "sample_name": 3
+  },
+  {
+    "method_1": "rgb_copy",
+    "method_2": "ours",
+    "sample_name": 12
+  },
+  {
+    "method_1": "ours",
+    "method_2": "diffhandles",
+    "sample_name": 18
+  },
+  {
+    "method_1": "sdedit",
+    "method_2": "ours",
+    "sample_name": 1
+  },
+  {
+    "method_1": "rgb_copy",
+    "method_2": "ours",
+    "sample_name": 14
+  },
+  {
+    "method_1": "diffhandles",
+    "method_2": "ours",
+    "sample_name": 27
+  },
+  {
+    "method_1": "rgb_copy",
+    "method_2": "ours",
+    "sample_name": 16
+  },
+  {
+    "method_1": "diffhandles",
+    "method_2": "ours",
+    "sample_name": 4
+  },
+  {
+    "method_1": "sdedit",
+    "method_2": "ours",
+    "sample_name": 4
+  },
+  {
+    "method_1": "sdedit",
+    "method_2": "ours",
+    "sample_name": 26
+  },
+  {
+    "method_1": "ours",
+    "method_2": "diffhandles",
+    "sample_name": 14
+  },
+  {
+    "method_1": "rgb_copy",
+    "method_2": "ours",
+    "sample_name": 8
+  },
+  {
+    "method_1": "rgb_copy",
+    "method_2": "ours",
+    "sample_name": 24
+  },
+  {
+    "method_1": "ours",
+    "method_2": "sdedit",
+    "sample_name": 24
+  },
+  {
+    "method_1": "ours",
+    "method_2": "sdedit",
+    "sample_name": 10
+  }
+]
